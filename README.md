@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+pip install [gunicorn|falcon]
 ```
 
 ### Compiles and hot-reloads for development
