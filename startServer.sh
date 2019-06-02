@@ -1,0 +1,1 @@
+gunicorn -b 192.168.10.129:8000 -b [::1]:8000 --reload server:app
